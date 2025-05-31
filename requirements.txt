@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-openai
+langchain-chroma
+chromadb
+pdfplumber
+pandas
+numpy
+PyYAML
+openai
