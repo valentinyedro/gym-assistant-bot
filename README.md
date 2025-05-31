@@ -1,6 +1,6 @@
 # Gym Assistant Bot 🤖
 
-Un chatbot inteligente especializado para el gimnasio DreamGym, construido con tecnologías modernas de procesamiento de lenguaje natural.
+Un chatbot inteligente especializado para el gimnasio DreamGym, construido con tecnologías modernas de procesamiento de lenguaje natural. Proyecto realizado durante un workshop de LeWagon.
 
 ## 🚀 Características
 
@@ -99,10 +99,3 @@ gym-assistant-bot/
 ├── requirements.txt     # Dependencias
 └── README.md           # Documentación
 ```
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para detalles
-
----
-⌨️ con ❤️ por [Tu Nombre](https://github.com/tu-usuario)
